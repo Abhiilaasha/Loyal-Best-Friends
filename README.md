@@ -1,2 +1,2 @@
 # Loyal-Best-Friends
-[Loyal-Best-Friends](the-puppy-store.netlify.app)
+[Loyal-Best-Friends](https://the-puppy-store.netlify.app)

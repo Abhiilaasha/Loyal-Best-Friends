@@ -1,2 +1,2 @@
 # Loyal-Best-Friends
-link-> the-puppy-store.netlify.app
+[Loyal-Best-Friends](the-puppy-store.netlify.app)
